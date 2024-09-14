@@ -1,4 +1,4 @@
-# Keystroke Logger with Email Sending Feature
+# Keystroke Logger with Email Sending Feature 
 This Python script captures keystrokes using pynput and sends the logged data via email when the ESC key is pressed. The logged keystrokes are saved in info.txt, which is attached to the email.
 
 ## Features
@@ -25,7 +25,7 @@ Update the script with your Gmail credentials:
 Replace EMAIL_ADDRESS with your Gmail account.
 Replace EMAIL_PASSWORD with the app-specific password you just generated.
 Replace TO_EMAIL with the email address you want the log sent to.
-##R un the script:
+## Run the script:
 python keylogger1.1.py
 The script will start logging all keystrokes into info.txt.
 Press the "ESC" key to stop logging and send the email with the attached log file.
