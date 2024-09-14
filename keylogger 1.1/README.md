@@ -2,12 +2,12 @@
 This Python script captures keystrokes using pynput and sends the logged data via email when the ESC key is pressed. The logged keystrokes are saved in info.txt, which is attached to the email.
 
 ## Features
-Keystroke Logging: Captures and logs every keypress in real time.
-Email Functionality: Sends the logged keystrokes via email once the ESC key is pressed.
-Attachment: Sends the log as a .txt file attachment.
+Keystroke Logging: Captures and logs every keypress in real time.    
+Email Functionality: Sends the logged keystrokes via email once the ESC key is pressed.    
+Attachment: Sends the log as a .txt file attachment.  
 Prerequisites
-Python 3.x installed on your machine.
-Basic understanding of Python.
+Python 3.x installed on your machine.  
+Basic understanding of Python.  
 ## Required Libraries:
 ### Install the pynput library:
 pip install pynput  
